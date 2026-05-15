@@ -1,0 +1,8 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "2gLq6OUT-1yKbrSvx8IHA"
+uri = "file://artifacts/mobile/assets/images/icon.png"
+type = "image"
+title = "procamera app icon"
