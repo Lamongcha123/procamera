@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "pro-camera",
+    "slug": "pro-camera",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "34d185c8-9542-4c5e-85b4-8bcd0258024b"
+      }
+    },
+    "android": {
+      "package": "com.lamongcha19.procamera"
+    }
+  }
+}
